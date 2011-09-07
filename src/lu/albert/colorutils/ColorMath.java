@@ -4,11 +4,14 @@ import java.awt.Color;
 import java.util.logging.Logger;
 
 /**
+ * Collection of algoritms found on various places on the web.
+ * Credit is given where I could find it.
  *
  * @author malbert
  */
 public class ColorMath {
 
+   // The class logger
    private static final Logger logger = Logger.getLogger(ColorMath.class.getCanonicalName());
 
    /**
